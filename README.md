@@ -1,4 +1,4 @@
-# Draw  ERD  with Crow’s foot notation
+# Draw  ERD  with Crow’s foot notation and prepare  table with PostgreSQL and insert sample data
 ## Question: Draw the Entity- Relationship Diagram (ERD) for the following scenario:
 ### Business rules:
 * A salesperson may manage many other salespeople. A salesperson is managed by only one salespeople. A salesperson can be an agent for many customers.
